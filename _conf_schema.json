@@ -1,0 +1,1 @@
+{"cookie": {"description": "抖音 Cookie", "hint": "填写抖音网页版 Cookie（含 ttwid 等），可提升解析成功率。留空则自动注册匿名 ttwid。从浏览器开发者工具复制即可。", "type": "string", "default": ""}, "dynamic_mix_music": {"description": "动图是否混合作品背景音乐", "hint": "开启后，动图（实况照片）输出会叠加作品背景音乐（两层音频：片段原声 + 背景音乐）。关闭则只保留动图片段本身的声音。默认开启。", "type": "bool", "default": true}}

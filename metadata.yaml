@@ -1,0 +1,6 @@
+name: astrbot_plugin_douyin_nahida
+display_name: 纳西妲抖音下载
+desc: 自动识别抖音链接，去水印下载视频和实况照片动图，动图转MP4并拼接，保留作品音乐（依赖 f2 生成签名）
+version: v1.1.0
+author: 纳西妲
+repo: ""
